@@ -15,7 +15,7 @@ function Base({ title, description, children }) {
           <AppBar position="static">
             <Toolbar variant="dense">
               <Typography sx={{ mr: 2 }}>
-                Version Control System
+                Authentication App
               </Typography>
               <IconButton
                 edge="end"
